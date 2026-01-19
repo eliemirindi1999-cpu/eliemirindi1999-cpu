@@ -8,6 +8,7 @@ I specialize in applying **Data Science** and **Machine Learning** to complex ph
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-E0442C?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge&logo=geopandas&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
