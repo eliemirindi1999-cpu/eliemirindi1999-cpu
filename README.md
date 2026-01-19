@@ -5,6 +5,15 @@ ACTUEL
 
 I specialize in applying **Data Science** and **Machine Learning** to complex physical systems and energy infrastructure. My work bridges the gap between mechanical engineering and predictive analytics to build resilient industrial solutions.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-E0442C?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
 ---
 
 ### 🛠️ Core Skills (Aligned with Mining & Energy Tech)
